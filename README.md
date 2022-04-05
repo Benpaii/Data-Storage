@@ -1,9 +1,10 @@
 ## Automated ELK Stack Deployment
 
 The files in this repository were used to configure the network depicted below.
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/95262494/161680490-24ca5728-5ee3-4468-8a00-3d5c8b39fc76.png)
 
- Update the path with the name of your diagram](Images/diagram_filename.png)
- https://drive.google.com/file/d/1EVNYuLICJcUPC0l7MyE54kOTXa0ypgTP/view?usp=sharing
+ 
+
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _Untitled Diagram.draw.io____ file may be used to install only certain pieces of it, such as Filebeat.
 
  Enter the playbook file._
